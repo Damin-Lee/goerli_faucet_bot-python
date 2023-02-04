@@ -1,5 +1,5 @@
 # Goerli Faucet Bot
-This is a python program that automatically claims goerli ether
+This is a python program that automatically claims goerli ether from [goerlifaucet](https://goerlifaucet.org/)
 ## Requirements
 - Python 3.x
 
